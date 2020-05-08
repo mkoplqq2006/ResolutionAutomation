@@ -1,0 +1,9 @@
+C:\zdb\ResolutionAutomation\ResolutionAutomation\ResolutionAutomation\obj\Debug\ResolutionAutomation.csprojAssemblyReference.cache
+C:\zdb\ResolutionAutomation\ResolutionAutomation\ResolutionAutomation\obj\Debug\ResolutionAutomation.Properties.Resources.resources
+C:\zdb\ResolutionAutomation\ResolutionAutomation\ResolutionAutomation\obj\Debug\ResolutionAutomation.csproj.GenerateResource.cache
+C:\zdb\ResolutionAutomation\ResolutionAutomation\ResolutionAutomation\bin\Debug\ResolutionAutomation.exe.config
+C:\zdb\ResolutionAutomation\ResolutionAutomation\ResolutionAutomation\bin\Debug\ResolutionAutomation.exe
+C:\zdb\ResolutionAutomation\ResolutionAutomation\ResolutionAutomation\bin\Debug\ResolutionAutomation.pdb
+C:\zdb\ResolutionAutomation\ResolutionAutomation\ResolutionAutomation\obj\Debug\ResolutionAutomation.Form1.resources
+C:\zdb\ResolutionAutomation\ResolutionAutomation\ResolutionAutomation\obj\Debug\ResolutionAutomation.exe
+C:\zdb\ResolutionAutomation\ResolutionAutomation\ResolutionAutomation\obj\Debug\ResolutionAutomation.pdb
