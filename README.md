@@ -1,0 +1,2 @@
+# ResolutionAutomation
+Resolution Automation Screenshot
