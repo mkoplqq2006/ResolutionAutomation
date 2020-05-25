@@ -7,3 +7,8 @@ Resolution Automation Screenshot<br/>
 🍒 エビデンスは簡単です<br/>
 🍓 증거 쉽습니다<br/>
 🍅 Bằng chứng rất đơn giản<br/>
+
+# 关键字
+自动分辨率<br/>
+分辨率截图<br/>
+分辨率测试<br/>
